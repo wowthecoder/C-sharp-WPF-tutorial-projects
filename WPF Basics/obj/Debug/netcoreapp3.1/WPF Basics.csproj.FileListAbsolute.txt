@@ -1,0 +1,20 @@
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\bin\Debug\netcoreapp3.1\WPF Basics.exe
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\bin\Debug\netcoreapp3.1\WPF Basics.deps.json
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\bin\Debug\netcoreapp3.1\WPF Basics.runtimeconfig.json
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\bin\Debug\netcoreapp3.1\WPF Basics.runtimeconfig.dev.json
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\bin\Debug\netcoreapp3.1\WPF Basics.dll
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\bin\Debug\netcoreapp3.1\WPF Basics.pdb
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics_MarkupCompile.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics_MarkupCompile.lref
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.g.resources
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.AssemblyInfo.cs
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.dll
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.pdb
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF Basics\obj\Debug\netcoreapp3.1\WPF Basics.genruntimeconfig.cache
