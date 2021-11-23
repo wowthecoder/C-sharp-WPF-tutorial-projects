@@ -1,0 +1,21 @@
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\bin\Debug\netcoreapp3.1\WPF TreeView.exe
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\bin\Debug\netcoreapp3.1\WPF TreeView.deps.json
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\bin\Debug\netcoreapp3.1\WPF TreeView.runtimeconfig.json
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\bin\Debug\netcoreapp3.1\WPF TreeView.runtimeconfig.dev.json
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\bin\Debug\netcoreapp3.1\WPF TreeView.dll
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\bin\Debug\netcoreapp3.1\WPF TreeView.pdb
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView_MarkupCompile.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView_MarkupCompile.lref
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.g.resources
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.AssemblyInfo.cs
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.dll
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.pdb
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.genruntimeconfig.cache
+C:\Users\GIGABYTE\Documents\Loo JH\Coding\C#\WPF tutorial\WPF TreeView\obj\Debug\netcoreapp3.1\WPF TreeView.csproj.Fody.CopyLocal.cache
